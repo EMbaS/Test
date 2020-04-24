@@ -1,4 +1,8 @@
 eu sunt cel mai tare
+<<<<<<< HEAD
 
 
 lalalal
+=======
+radarada
+>>>>>>> 2db517520e63aa8da99814a67322d263a04e02f8
